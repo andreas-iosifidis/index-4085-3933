@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>ADcompany</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body bgcolor=#99FFFF text="black">
+        <h1 id="a3"><b><ins>ΚΑΛΩΣΗΡΘΑΤΕ ΣΤΟΝ ΙΣΤΟΤΟΠΟ ΜΑΣ</ins></b></h1> 
+        <hr />
+        <a href="index.html">Αρχική</a> <a href="#a1">Βιογραφικό</a>  
+        <a href="#a2">Επικοινωνία</a> <a href="project.html">Project</a>
+        <br>
+        <h2>Λίγα λόγια για μένα..</h2><br />
+        <img alt="η φωτογραφια μου" 
+             src="44491665_2096189593778752_8073110177861074944_n.jpg" width="100" height="100"/>
+        
+        <p>Το ονομά μου είναι <q>Ιωσηφίδης Ανδρέας</q> και
+        το ΑΕΜ μου είναι <q>4085</q>.Γεννήθηκα στις 17/07/1999.Ο Τόπος καταγωγής μου
+        είναι η Αλεξανδρούπολη. <a href="http://www.visitgreece.gr/el/mainland/alexandroupolis.gr" 
+                                   target="_blank">
+            <img alt="Η πόλη μου" src="alexandroupoli.jpg" width="600" height="450"/></a></p>
+        
+            <h3>Οι γνώσεις μου στον 
+                προγραμματισμό είναι οι εξής:</h3>
+        
+            <ul><li type=square><b>C++</b></li>
+            <li type=square><b>Java</b></li>
+            <li type=square><b>Python</b></li>
+            <li type=square><b>Html</b></li>
+            <li type=square><b>Css</b></li>
+            <li type=square><b>Sql</b></li>
+            </ul>
+        
+        <h2 id="a1"><q>Το βιογραφικό μου</q></h2>
+        <p>Φοιτησα 1ο Γενικό Λύκειο Αλεξανδρούπολης.Έπειτα ξεκίνησα τις
+            σπουδές μου στο <a href="http://www.teikav.edu.gr/" target="_blank">ΤΕΙ ΑΜΘ</a>.</p>
+        <br />
+        <br />
+        <dl>
+            <dt>Κατέχω πτυχία Αγγλικής Γλώσσας.</dt>
+            <dd><b><i>lower B2</i></b></dd>
+            <dd><b><i>Proficiency MSU</i></b></dd>
+        </dl>
+        <br />
+        <p>Τα χόμπυ μου είναι:</p>
+        <ol>
+            <li>Street Workout</li>
+            <li>Μπάσκετ</li>
+            <li>Ποδόσφαιρο</li>
+            <li>Ταινίες,Σειρές</li>
+        </ol>
+        <h4 id="a2">Επικοινωνία</h4>
+        <p><a href="mailto:antreas2.000.000@gmail.com">Το email μου</a><br />
+        </p>
+        <p><a href="#a3">αρχική</a></p>
+    </body>
+</html>
