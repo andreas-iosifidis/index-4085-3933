@@ -13,7 +13,7 @@ and open the template in the editor.
     <body bgcolor=#99FFFF text="black">
         <h1 id="a3"><b><ins>ΚΑΛΩΣΗΡΘΑΤΕ ΣΤΟΝ ΙΣΤΟΤΟΠΟ ΜΑΣ</ins></b></h1> 
         <hr />
-        <a href="index.html">Αρχική</a> <a href="#a1">Βιογραφικό</a>  
+          
         <a href="#a2">Επικοινωνία</a> <a href="project.html">Project</a>
         <br>
         <h2>Λίγα λόγια για εμάς..</h2><br />
@@ -39,7 +39,7 @@ and open the template in the editor.
             <li type=square><b>Sql</b></li>
             </ul>
         
-        <h2 id="a1"><q>Το βιογραφικό μου</q></h2>
+        <h2 id="a1"><b>Το βιογραφικό μου</b></h2>
         <p>Φοιτησα 1ο Γενικό Λύκειο Αλεξανδρούπολης.Έπειτα ξεκίνησα τις
             σπουδές μου στο <a href="http://www.teikav.edu.gr/" target="_blank">ΤΕΙ ΑΜΘ</a>.</p>
         <br />
@@ -59,7 +59,7 @@ and open the template in the editor.
         </ol>
         <br />
         <hr />
-        <p> Το ονομά μου είναι <a href="savvas.html"target="_blank"> Σάββας Δημόπουλος</a><h1></h1> </p>
+        <p> Το ονομά μου είναι Σάββας Δημόπουλος</p>
         <img alt="my foto" src="Scan 2.jpg" weidth="100" height="100"/>
         <p>Το αγαπημένο μου χρώμα είναι <font color="blue"> Μπλε </font> </p>
 <dl><dt>Γεννήθηκα στις 13/07/1996 στη Βέροια και τώρα ζω στη Καβάλα.</dt><dd>
@@ -83,7 +83,7 @@ and open the template in the editor.
     <li>SQL</li>
 </ul>
 <br />
-       <h1 align="center">Επικοινωνία</h1>
+       <h1 id="a2" align="center">Επικοινωνία</h1>
 <table border = "2" width = "10%" align = "center" >
 <caption>Για οποιαδήποτε ερώτηση ή κάποια πληροφορία που θέλετε να ενημερωθείτε είμαστε στην διάθεσή σας</caption>
 <tr>
@@ -93,5 +93,6 @@ and open the template in the editor.
 <td>Απαντάμε συνήθως μέσα σε ένα 24ωρο.
 <p><a href="mailto:savvasr10@hotmail.com">Σάββας Δημόπουλος</a></p>
 <p><a href="mailto:antreas2.000.000@gmail.com">Ιωσηφίδης Ανδρέας</a></p>
+<a href="#a3" align="center">Αρχική</a>
     </body>
 </html>
