@@ -16,9 +16,11 @@ and open the template in the editor.
         <a href="index.html">Αρχική</a> <a href="#a1">Βιογραφικό</a>  
         <a href="#a2">Επικοινωνία</a> <a href="project.html">Project</a>
         <br>
-        <h2>Λίγα λόγια για μένα..</h2><br />
+        <h2>Λίγα λόγια για εμάς..</h2><br />
         <img alt="η φωτογραφια μου" 
              src="44491665_2096189593778752_8073110177861074944_n.jpg" width="100" height="100"/>
+        <img alt="η φωτογραφια μου"
+             src="Scan 2.jpg" weidth="100" height="100"/>
         
         <p>Το ονομά μου είναι <q>Ιωσηφίδης Ανδρέας</q> και
         το ΑΕΜ μου είναι <q>4085</q>.Γεννήθηκα στις 17/07/1999.Ο Τόπος καταγωγής μου
@@ -55,9 +57,41 @@ and open the template in the editor.
             <li>Ποδόσφαιρο</li>
             <li>Ταινίες,Σειρές</li>
         </ol>
-        <h4 id="a2">Επικοινωνία</h4>
-        <p><a href="mailto:antreas2.000.000@gmail.com">Το email μου</a><br />
-        </p>
-        <p><a href="#a3">αρχική</a></p>
+        <br />
+        <hr />
+        <p> Το ονομά μου είναι <a href="savvas.html"target="_blank"> Σάββας Δημόπουλος</a><h1></h1> </p>
+        <img alt="my foto" src="Scan 2.jpg" weidth="100" height="100"/>
+        <p>Το αγαπημένο μου χρώμα είναι <font color="blue"> Μπλε </font> </p>
+<dl><dt>Γεννήθηκα στις 13/07/1996 στη Βέροια και τώρα ζω στη Καβάλα.</dt><dd>
+        <a target="_blank" href = "http://kavalacity.blogspot.com/">  <img src="kavala_view.jpg" width="684" height="460" align="center"/></dd></dl> </a>
+<h2><b>Το βιογραφικό μου</b></h2>
+<p>Αποφοίτησα απο το 2<sup>ο</sup> γενικό λύκειο της βέροιας.Τώρα είμαι φοιτητής στο ΤΕΙ ΚΑΒΑΛΑΣ.</p>
+<p>Τα χόμπυ μου είναι τα εξής:</p>
+<ul>
+    <li>Street Workout</li>
+    <li>Ποδόσφαιρο</li>
+    <li>Ταινίες-Σειρές</li>
+ </ul>
+<br />
+
+<p>Οι γνώσεις μου στον προγραμματισμό:</p>
+<ul>
+    <li>C++</li>
+    <li>html5</li>
+    <li>PHP</li>
+    <li>JAVA</li>
+    <li>SQL</li>
+</ul>
+<br />
+       <h1 align="center">Επικοινωνία</h1>
+<table border = "2" width = "10%" align = "center" >
+<caption>Για οποιαδήποτε ερώτηση ή κάποια πληροφορία που θέλετε να ενημερωθείτε είμαστε στην διάθεσή σας</caption>
+<tr>
+<th></th>
+</tr>
+<tr>
+<td>Απαντάμε συνήθως μέσα σε ένα 24ωρο.
+<p><a href="mailto:savvasr10@hotmail.com">Σάββας Δημόπουλος</a></p>
+<p><a href="mailto:antreas2.000.000@gmail.com">Ιωσηφίδης Ανδρέας</a></p>
     </body>
 </html>
