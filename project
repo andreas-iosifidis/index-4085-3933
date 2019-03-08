@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Project</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body bgcolor="#CCFF99" text="black">
+        <h1>Project</h1>
+        <hr />
+        <a href="index.html">Πίσω</a>
+        
+        <h1><b>Η Εταιρία μας</b></h1>
+        <p>Ιδρύθηκε το 2014.Ο <abbr title="Chief Executive Officer"> CEO </abbr>
+            είναι και ο δημιουργός της εταιρίας<b>Ιωσηφίδης Ανδρέας</b>.
+            Έχει έδρα την <i>Καβάλα</i> και είναι μια εταιρία λογισμικού που ως 
+        σκοπό έχει την δημιουργία και υλοποίηση εφαρμογών που θα διευκολύνουν
+        την ζωή του ανθρώπου την καθημερινότητά του.Αποτελείται απο 20 developers
+        που με την υψηλή κατάρτηση και άρτια συνεργασία που διαθέτουν
+        επιτελούν το έργο που τους ανατείθεται.</p>
+        
+        
+        <h2>Το Επόμενό μας Project</h2>
+        <p>Η ιδέα μας είναι η δημιουργία λογισμικού όπου θα είναι ικανή η αυτόματη
+        οδήγηση.Έτσι δεν θα χρειάζεται να υπάρχει οδηγός.
+        Με αυτόν τον τρόπο θα εξαλειφθούν τα ατυχήματα και δεν θα χρειάζονται
+        διπλώματα οδήγησης καθώς όλα θα γίνονται μέσω ορισμένων εντολών.</p>
+        <img alt="Artificial intelligence" src="20180226205042-GettyImages-871148930-crop.jpeg"
+             width="600" height="450">
+        
+    </body>
+</html>
